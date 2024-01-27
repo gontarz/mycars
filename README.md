@@ -1,6 +1,6 @@
 ### run postgres for local purposes 
  `docker run -d -p 5432:5432 --name mycars -e POSTGRES_PASSWORD=postgres postgres`
-to run  app localy setup proper postgres host
+to run  app locally setup proper postgres host
 
 ```
 # python manage.py makemigrations
